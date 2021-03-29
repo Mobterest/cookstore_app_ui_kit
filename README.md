@@ -1,48 +1,27 @@
-# Flutter CookStore App UI
+# Cookstore App
 
-Thank you for purchasing this product.
+## Introduction
 
-## Getting Started
+Built with [Flutter](https://flutter.dev/) :star2:
 
-If it's your first time interacting with Flutter, the link below can get you started:
+![Banner of the images](showcase.png)
 
-- (http://mobterest.com/2020/04/27/start-flutter/)
+## Features
 
-## Installation Guide
+ - Access to amazing recipes and a chance to buy the necessary products from your nearest stores.
+ - It’s a clean solution with the provision of easy customization.
 
-After purchase, you have received your downloaded package. Follow the steps below:
+## Feedback
 
--  [Create a New Flutter Project: flutter create cookstore](✔)
--  [Paste the contents in the zipped package that you have purchased into the root of cookstore directory and replace](✔)
--  [Navigate to the cookstore directory on the terminal](✔)
--  [Run the command: flutter pub get](✔)
--  [Open your project using your preferred code editor](✔)
--  [If there are no conflicts, run the app on an emulator or phone](✔)
+- Feel free to send feedback . Feature requests are always welcome. If there's anything you'd like to chat about, please don't hesitate to [reach out](https://www.instagram.com/mobterest/).
 
-Incase of any questions, you can reach out from the link below: [?]
-- (http://mobterest.com/consultancy/)
+## Build process
 
-## App Structure
+- Follow the [Flutter Guide](https://flutter.dev/docs/get-started/install) to get started in building with Flutter.
+- Clone or download the repo.
+- Run ``` flutter pub get ``` to install the necessary packages on your command line that's navigated to the root of the project.
+- Invoke the ``` flutter run ``` command.
 
-- This is just a simple guide to navigate through the main folder of the project where development is done: [lib]
+## Acknowledgements
 
-[lib]
-    |
-    [main.dart] - This is the default page. Similar to an index file in the start of a web project. It calls the first Material Page for the application.
-    |
-    [App.dart] - This is the first Material Page for the application.
-    |
-    [widgets] - This folder holds different widgets that are reusable within the project and added to different pages
-    |
-    [utils] - This folder holds functions that can be reused throughout the project
-    |
-    [pages] - This folder defines the main pages in the application. These pages return a Scaffold widget.
-    |
-    [globals] - This folder holds the various constants in the project. This is very efficient for customization purposes.
-        | - [colors.dart] - holds all the color palettes used in the project. So if all you want to do is change the color brand. This is the file you'll focus on.
-        | - [config.dart] - holds configurations that would rather be in one file than distributed in the project.
-        | - [constants.dart] - holds Strings, names, texts that are hardcoded from the name of the application to the about information.
-        | - [dimensions.dart] -  holds any dimensions involved in the project. e.g padding
-        | - [styles.dart] - holds all the styles in the project in one place.
-    
-Happy Coding ☻
+Thanks to [Flutter](https://flutter.dev/) and [Visual Studio Code](https://code.visualstudio.com/) for supporting us with amazing products.

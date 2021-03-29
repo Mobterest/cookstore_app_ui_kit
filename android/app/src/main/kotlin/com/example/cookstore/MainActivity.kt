@@ -1,4 +1,4 @@
-package com.example.cookstore
+package com.studio.cookstore
 
 import io.flutter.embedding.android.FlutterActivity
 
